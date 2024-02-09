@@ -1,16 +1,19 @@
-### Hi there 👋
+name: Joshua Wiid Richter
+located_in: Cape Town, South Africa
+from: South Africa
+job: Frontend Web Developer / Code mentor
+education: Full Stack Web Development certification at Hyperion Development
+company: CodeSpace
+past experiences: 
+  - ["Front End Web Developer", "Bumbo", "South Africa", "2020 - 2023"]
+  - ["Code Reviewer", "CoGrammar", "South Africa", "2018 - 2023"]
+  - ["Accountant", "Free From Biscuits", "Spain", "2013 - 2020"]
+ 
 
-<!--
-**joshuawiidrichter1994/joshuawiidrichter1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["React", "Vue", "JavaScript", "Python", "Nextjs", "Express", "Motion Planning", "Optimization",
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Mood dependent"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Music", "Engineering", "Reading", "Eating flowers"]
