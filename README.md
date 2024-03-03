@@ -1,6 +1,6 @@
 Current occupations:
 - Code mentor @ CodeSpace
-- Freelance web developer
+- Freelance web developer @ UrbanEagle Development
 
 Past work experiences:
 - Front End Web Developer @ Bumbo International (2020 - 2023)
